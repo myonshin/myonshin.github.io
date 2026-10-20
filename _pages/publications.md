@@ -29,6 +29,18 @@ Keywords: Big Data, Supervised Machine Learning, Return predictability, Forecast
 <br>
 Abstract: We examine the predictive performance of supervised machine learning models in forecasting monthly firm-level equity risk premium. We collect firms whose stocks are currently listed or were listed on Korea Exchange in the past. We collect firms from January 1990 to December 2019 through the Worldscope database and use their financial characteristics as predictors. We forecast and evaluate models pairwise to find ones with superior predictive ability. We also estimate model confidence sets collecting models with superior predictive ability. We also investigate the importance of predictors based on their mean decrease in l2 impurity using the random forest model. For our data, weekly and monthly price trends contribute the most.
 
+<br>
+<br>
+<br>
+<br>
+
+
+* ***Does AI-Related Activity Improve Forecasts of US Industrial Production? (working)***
+* (https://myonshin.github.io/files/AIandIP.pdf)
+<br>
+Abstract: Investment in artificial intelligence (AI) has become a visible driver of US high-tech production, equipment orders, and electricity demand. This paper provides empirical analysis on whether indicators of AI-related activity contain information about future US industrial production (IP) beyond what standard macroeconomic predictors already capture.
+
+
 {% comment %} 
 {% for post in site.publications reversed %}
 
