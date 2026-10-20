@@ -35,8 +35,7 @@ Abstract: We examine the predictive performance of supervised machine learning m
 <br>
 
 
-* ***Does AI-Related Activity Improve Forecasts of US Industrial Production? (working)***
-* (https://myonshin.github.io/files/AIandIP.pdf)
+* ***Does AI-Related Activity Improve Forecasts of US Industrial Production? (working)<br>(Job market paper, [Current note](https://myonshin.github.io/files/AIandIP.pdf))***
 <br>
 Abstract: Investment in artificial intelligence (AI) has become a visible driver of US high-tech production, equipment orders, and electricity demand. This paper provides empirical analysis on whether indicators of AI-related activity contain information about future US industrial production (IP) beyond what standard macroeconomic predictors already capture.
 
